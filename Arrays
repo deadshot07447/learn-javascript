@@ -1,0 +1,13 @@
+//arrays
+
+const myArr = [0,1,2,3,4,5,6]
+const myArr2 = new Array(1,2,3)
+
+console.log(myArr.length);
+
+myArr.push(8);
+myArr.push(9);
+
+myArr.unshift(56);
+myArr.push("as")
+console.log(myArr);
